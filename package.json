@@ -2,11 +2,10 @@
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hitman-lab.github.io/portfolio/",
+  "homepage": "https://hitman-lab.github.io/portfolio_/",
   "dependencies": {
     "audit": "0.0.6",
     "fix": "0.0.6",
-    "gh-pages": "^2.2.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "^3.4.3",
@@ -29,5 +28,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
 }
