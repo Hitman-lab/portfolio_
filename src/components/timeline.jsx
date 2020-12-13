@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Software Engineer at CAPGEMINI <span>2019-present</span></h2>
-                        <p>I recently have joined the Capgemini as a Software Engineer in Kemper Accout. My major part of the work has been into the field of Policy Center. Which enables developers at Kemper to do rapid development. I am also exploring the role of Billing Center to be part of fully fledged Guideware Products.</p>
+                        <p>I have joined the Capgemini as a Software Engineer in Kemper Account. My major part of the work has been into the field of Policy Center. Which enables developers at Kemper to do rapid development. I am also exploring the role of Billing Center to be part of fully fledged Guideware Products.</p>
                       </div>
                     </div>
                   </article>
