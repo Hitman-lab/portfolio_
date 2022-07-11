@@ -21,8 +21,42 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Software Engineer at CAPGEMINI <span>2019-present</span></h2>
-                        <p>I have joined the Capgemini as a Software Engineer in Kemper Account. My major part of the work has been into the field of Policy Center. Which enables developers at Kemper to do rapid development. I am also exploring the role of Billing Center to be part of fully fledged Guideware Products.</p>
+                        <h2>Associate Consultant at Capgemini <span>2019-present</span></h2>
+                        <span><b>Guidewire PolicyCenter Developer</b></span>
+                        <p>
+                          <li>Strong work experience in Personal Auto Insurance with Guidewire PolicyCenter.</li>
+                          <li>Gained good hands-on experience in the Integration stream of Policy Center v10.</li>
+                          <li>Worked along with the Business team on analyzing and prioritizing the requirements for each rollout.</li>
+                          <li>Prepared technical design documents and test cases after developing the code.</li>
+                          <li>Trained and mentored Junior Programmers by giving KTs, and also helped the team from a technical standpoint.</li>
+                          <li>Acquired a basic knowledge in Guidewire Billing Center as well</li>
+                        </p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Cybersecurity engineer Intern at VTF <span>May 2022 - July 2022</span></h2>
+                        <p>Things which learned through out the internship: <br />
+                          1.Professional Network Visibility <br />
+                          2.Professional Etiquette <br />
+                          3.CyberSecurity.</p>
+                          <p>Skills: OWASP10 · pfSense · Burp Suite · Vulnerability Assessment · Nmap · OSINT · MITRE ATTACK · Splunk · Tenable Nessus · CTF · Metasploit · Penetration Testing</p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-6">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>CTF Player<span></span></h2>
+                        <span><b>Freelance - TryHackMe</b></span>
                       </div>
                     </div>
                   </article>
@@ -34,7 +68,6 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>Campus Ambassador at IIM Bangalore<span> Dec 2017 - Feb 2018</span></h2>
                         <p>Unmaad is one of the great platforms to develop management skills, after showing up my work, I'm glad that I've been selected as Campus Ambassador on my capmus and pass on the skills which I've learned. </p>
-                        {/* <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p> */}
                       </div>
                     </div>
                   </article>
@@ -46,7 +79,6 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>Campus Ambassador at KURUKSHETRA, College of Engineering Guindy Anna University <span>Jan 2017 - Feb 2018</span></h2>
                         <p>I'm privileged to lead Student Club initiated by Kurukshetra Team on Campus constituting over-all 20 selected students on campus. </p>
-                        {/* <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p>  */}
                       </div>
                     </div>
                   </article>

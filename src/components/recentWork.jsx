@@ -7,9 +7,9 @@ export default class Timeline extends Component {
         <section className="colorlib-work" data-section="work">
 				<div className="colorlib-narrow-content">
 					<div className="row">
-						<div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+						<div className="col-lg-8 col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
 							<span className="heading-meta">My Work</span>
-							<h2 className="colorlib-heading animate-box">Recent Work</h2>
+							<h2 className="colorlib-heading animate-box">Some projects on web Development:</h2>
 						</div>
 					</div>
 					{/* <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
@@ -76,7 +76,7 @@ export default class Timeline extends Component {
                     <hr />
 					<div className="row">
 						<div className="col-md-12 animate-box">
-							<p><a href="mailto:www.tanuj200@email.com" className="btn btn-primary btn-lg btn-load-more"><i class="far fa-envelope fa-2x"></i></a></p>
+							<p><a href="mailto:hackzs@outlook.com" className="btn btn-primary btn-lg btn-load-more"><i class="far fa-envelope fa-2x"></i></a></p>
 						</div>
 					</div>
 				</div>
