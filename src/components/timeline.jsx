@@ -67,7 +67,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Campus Ambassador at IIM Bangalore<span> Dec 2017 - Feb 2018</span></h2>
-                        <p>Unmaad is one of the great platforms to develop management skills, after showing up my work, I'm glad that I've been selected as Campus Ambassador on my capmus and pass on the skills which I've learned. </p>
+                        <p>Unmaad is the annual cultural festival presented by Indian Institute of Management Bangalore. Conducted over a period of three days, Unmaad includes events like dramatics, music performances, dances, quizzes, debates, street plays, professional concerts and many more.It's one of the great platforms to develop management skills.</p>
                       </div>
                     </div>
                   </article>
